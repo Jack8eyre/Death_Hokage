@@ -1,8 +1,7 @@
 #pragma once
-#pragma once
 #ifndef GAME_H
 #define GAME_H
-#define WIDTH 1350
+#define WIDTH 1500
 #define HEIGHT 600
 
 #include <graphics.h>
@@ -10,7 +9,7 @@
 #pragma comment(lib,"Winmm.lib")
 #include <windows.h>
 #include <stdio.h>
-
+#include "player.h"
 // 全局变量声明
 extern int player1_x, player1_y, player2_x, player2_y;
 extern int player1old_y, player2old_y, player1old_x, player2old_x;
