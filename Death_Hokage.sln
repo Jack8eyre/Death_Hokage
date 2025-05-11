@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Death_Hokage", "Death_Hokage\Death_Hokage.vcxproj", "{23EA3463-909B-43D9-BBBB-37AFC058321F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Debug|x64.ActiveCfg = Debug|x64
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Debug|x64.Build.0 = Debug|x64
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Debug|x86.ActiveCfg = Debug|Win32
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Debug|x86.Build.0 = Debug|Win32
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Release|x64.ActiveCfg = Release|x64
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Release|x64.Build.0 = Release|x64
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Release|x86.ActiveCfg = Release|Win32
+		{23EA3463-909B-43D9-BBBB-37AFC058321F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5ADCAFD-B336-4FC0-9B35-ACAC2A6335F8}
+	EndGlobalSection
+EndGlobal
